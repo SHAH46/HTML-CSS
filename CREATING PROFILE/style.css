@@ -1,0 +1,19 @@
+.look{
+    width: 350px;
+    background: rgb(0, 0, 0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-size: large;
+    font-family: century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+    position: relative;
+    margin-left: 500px;
+    margin-bottom: 100px;
+}
+i{
+    margin-left: 80px;
+}
